@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FNM" />
+    <None Remove="Quadtree\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Quadtree\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="FNM">
+      <HintPath>..\..\..\FNM\FNM\FNM\bin\Debug\netstandard2.0\FNM.dll</HintPath>
+    </Reference>
+    <Reference Include="PEUtils">
+      <HintPath>..\..\..\..\unitymoba\FixedNumberPhys\FixedNumberPhys\FixedNumberPhys\bin\Debug\netstandard2.0\PEUtils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

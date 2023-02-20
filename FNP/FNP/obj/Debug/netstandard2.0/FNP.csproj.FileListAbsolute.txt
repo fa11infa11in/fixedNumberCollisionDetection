@@ -1,0 +1,17 @@
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/FNP.deps.json
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/FNP.dll
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/FNP.pdb
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/FNM.dll
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/PEUtils.dll
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/UnityEngine.dll
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/FNM.pdb
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/UnityEngine.pdb
+/Users/yangyijiang/github/FNP/FNP/FNP/bin/Debug/netstandard2.0/UnityEngine.xml
+/Users/yangyijiang/github/FNP/FNP/FNP/obj/Debug/netstandard2.0/FNP.csproj.AssemblyReference.cache
+/Users/yangyijiang/github/FNP/FNP/FNP/obj/Debug/netstandard2.0/FNP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangyijiang/github/FNP/FNP/FNP/obj/Debug/netstandard2.0/FNP.AssemblyInfoInputs.cache
+/Users/yangyijiang/github/FNP/FNP/FNP/obj/Debug/netstandard2.0/FNP.AssemblyInfo.cs
+/Users/yangyijiang/github/FNP/FNP/FNP/obj/Debug/netstandard2.0/FNP.csproj.CoreCompileInputs.cache
+/Users/yangyijiang/github/FNP/FNP/FNP/obj/Debug/netstandard2.0/FNP.csproj.CopyComplete
+/Users/yangyijiang/github/FNP/FNP/FNP/obj/Debug/netstandard2.0/FNP.dll
+/Users/yangyijiang/github/FNP/FNP/FNP/obj/Debug/netstandard2.0/FNP.pdb
